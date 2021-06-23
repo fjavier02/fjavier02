@@ -2,6 +2,7 @@
 
 <a  href = "https://github.com/fjavier02" target="_blank" ><img  target="_blank" src="https://img.shields.io/github/followers/fjavier02?style=social"/></a>
 <a  href = "https://img.shields.io/twitter/follow/francisco_kurt?style=social" target="_blank" ><img  target="_blank" src="https://img.shields.io/twitter/follow/francisco_kurt?style=social"/></a>
+[![Twitter: fjavier02](https://img.shields.io/twitter/follow/francisco_kurt.svg?style=social)](https://twitter.com/francisco_kurt)
 
 
  <div>
