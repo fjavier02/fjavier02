@@ -11,9 +11,10 @@
   <img align="center" alt="fjavier02-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fjavier02-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="fjavier02-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="fjavier02-Python" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-  <img align="center" alt="fjavier02-Python" height="35" width="35" src="https://i.imgur.com/Sf5lAbT.png" />
-  <img align="right" alt="fjavier02-Conic" src="https://i.imgur.com/xyNTrHc.jpeg">
+  <img align="center" alt="fjavier02-Angular" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" />
+  <img align="center" alt="fjavier02-Python" width="35" src="https://i.imgur.com/Sf5lAbT.png" />
+ <img align="center" alt="fjavier02-MySQL" height="35" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+  <img align="right" bg="white" alt="fjavier02-Conic" src="https://i.imgur.com/xyNTrHc.jpeg">
 </div>
   
   ##
