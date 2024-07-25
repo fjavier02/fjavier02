@@ -30,6 +30,10 @@
   <a href="https://www.instagram.com/fjavier02/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:franciscolopez1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/francisco-lopez-b33a64110" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ <div style="margin-top: 1rem">
+   <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fjavier02&column=-1&theme=gitdimmed&margin-w=15&margin-h=15" alt="Rubendvb" /></a></p>
+ </div>
  
   ![Snake animation](https://raw.githubusercontent.com/fjavier02/fjavier02/8f827bc58c0c91458351337c18801b247b21b69e/snake.svg)
  
